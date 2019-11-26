@@ -1,31 +1,11 @@
-# NodeJS Shopping Cart - NodeJS, Express, Express-Session, Express handlebars (hbs)
+Developed a small app displaying a movie theater program using NodeJs.
 
-### Run locally on your machine
-You need to have installed Node and NPM.
+Some of the features that this app performs are:
+1. Displays movies on the home page with discription and the price.
+2. Users can buy the movies by adding them to cart.
+3. After adding to the cart, users can proceed to checkout for payment.
 
-![NodeJS Shopping Cart](/data/nodejs-cart-1.png?raw=true "NodeJS Shopping Cart")
+PS. Checkout functionality not added.
 
-Clone this repository
-``` shell
-git clone https://github.com/gtsopour/nodejs-shopping-cart.git
-```
-
-Install dependencies
-``` shell
-npm install
-```
-
-Start NodeJS server at http://localhost:3000
-``` shell
-npm start
-```
-
-For Nodemon usage
-``` shell
-nodemon ./bin/www
-```
-
-### Technologies
-NodeJS, Express, Express-Session, Nodemon, hbs - Express.js view engine for handlebars.js
-
-For any extra questions, please contact me at gtsopour@gmail.com. 
+How to run the App?
+In order to run this web application, Run NPM install and then NPM start.
