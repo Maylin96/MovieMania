@@ -1,6 +1,6 @@
-Developed a small app displaying a movie theater program using NodeJs.
+Developed a small app displaying a movie theater program using NodeJs and ExpressJs.
 
-features of this web app:
+Features of this web app:
 1. Displays movies on the home page with description and the price.
 2. Users can buy the movies by adding them to cart. Movies can also be removed from the cart if not needed.
 3. After adding to the cart, users can proceed to checkout for payment.
